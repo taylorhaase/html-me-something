@@ -1,7 +1,16 @@
 p {
-    color: green;
+    color: #696969;
 }
-
+h3 {
+    color: #D2691E; 
+}
 span {
     font-family: cursive;
+}
+
+body{
+    background-color: #FAEBD7;
+}
+ul {
+    color: #483D8B;
 }
