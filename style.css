@@ -1,8 +1,13 @@
 p {
     color: #696969;
+    font-family: 'Roboto', sans-serif;
+
 }
 h3 {
     color: #D2691E; 
+    font-family: 'Barrio', cursive;
+
+
 }
 span {
     font-family: cursive;
@@ -13,4 +18,11 @@ body{
 }
 ul {
     color: #483D8B;
+    font-family: 'Bitter', serif;
+}
+table{
+    border: 4px solid black;
+}
+td {
+    border: 2px solid black;
 }
